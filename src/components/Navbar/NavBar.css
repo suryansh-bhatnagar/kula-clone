@@ -1,0 +1,27 @@
+.container {
+  padding-right: 5%;
+  padding-left: 5%;
+  min-height: 4.5rem;
+  width: 100vw;
+  border: 0.5px solid #000;
+  background-color: #0f0f0f;
+  display: flex;
+  align-items: center;
+}
+.img-container {
+  margin-right: 2%;
+}
+
+.nav-item {
+  color: #fff;
+  padding: 2%;
+  border-radius: 0.6rem;
+  height: 3.4rem;
+  display: flex;
+  align-items: center;
+}
+
+.nav-item:hover {
+  background-color: #1b1b1b;
+  color: #f4f4f4;
+}
